@@ -1,0 +1,25 @@
+body {
+  background-image: linear-gradient(to bottom right, #14110F, #34312D);
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  color: #97ABB1;
+  font-family: 'Fira Mono', monospace;
+}
+
+p {
+  /* color: #746F72; */
+  color: #C2EFB3;
+  font-family: 'Open Sans', sans-serif;
+}
+
+a {
+  color: #746F72;
+}
+
+a:hover {
+  color:  #97ABB1;
+}
